@@ -1,0 +1,11 @@
+com\example\desafioweb\controller\CorridaController.class
+com\example\desafioweb\DesafioWebFullStackApplication.class
+com\example\desafioweb\repository\PassageiroRepository.class
+com\example\desafioweb\repository\CorridaRepository.class
+com\example\desafioweb\dominio\Corrida.class
+com\example\desafioweb\repository\MotoristaRepository.class
+com\example\desafioweb\dominio\Motorista.class
+com\example\desafioweb\controller\MotoristaController.class
+com\example\desafioweb\controller\PassageiroController.class
+com\example\desafioweb\dominio\Passageiro.class
+com\example\desafioweb\CorsConfiguration.class
