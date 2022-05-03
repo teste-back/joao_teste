@@ -9,5 +9,4 @@ public class DesafioWebFullStackApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DesafioWebFullStackApplication.class, args);
 	}
-
 }
